@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/background_miscellaneous.xml" value="0.279" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/background_note_color1.xml" value="0.279" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/background_note_color2.xml" value="0.1905" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/background_reading_note.xml" value="0.1905" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/ic_error.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/ic_material_dialog_cancel.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/drawable/ic_material_dialog_delete.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/activity_create_note.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/enter_old_backup.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/exit_dialog.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_add_screen.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_back_up_password.xml" value="0.29583333333333334" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_edit_screen.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_enter_password.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_home_screen.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_on_click_dialog.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_set_password.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_splash_screen.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/fragment_splash_screen2.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/item_container_note.xml" value="0.2988679352838745" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_about_note.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_add_url.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_delete_note.xml" value="0.2988679352838745" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_miscellaneous.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_navigation_header.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_reading_note.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/layout_set_password_note.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/layout/lock_update_dialog.xml" value="0.2988679352838745" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/menu/main_menu.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/menu/note_menu.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/menu/quick_actions_menu.xml" value="0.3098958333333333" />
+        <entry key="..\:/AndroidStudioProjects/NoteAppPlayStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

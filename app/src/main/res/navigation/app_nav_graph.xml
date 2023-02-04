@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav_graph"
+    app:startDestination="@id/homeScreen">
+
+
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="com.azamovhudstc.noteappplaystore.ui.screen.HomeScreen"
+        android:label="fragment_home_screen"
+        tools:layout="@layout/fragment_home_screen" >
+        <action
+            android:id="@+id/action_homeScreen_to_addScreen"
+            app:destination="@id/addScreen"
+            app:enterAnim="@anim/push_left_in"
+            app:popEnterAnim="@anim/left_to_right" />
+        <action
+            android:id="@+id/action_homeScreen_to_editScreen"
+            app:destination="@id/editScreen"
+            app:enterAnim="@anim/push_left_in"
+            app:popEnterAnim="@anim/left_to_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/addScreen"
+        android:name="com.azamovhudstc.noteappplaystore.ui.screen.AddScreen"
+        android:label="fragment_add_screen"
+        tools:layout="@layout/activity_create_note" />
+    <fragment
+        android:id="@+id/editScreen"
+        android:name="com.azamovhudstc.noteappplaystore.ui.screen.EditScreen"
+        android:label="fragment_edit_screen"
+        tools:layout="@layout/fragment_edit_screen" />
+</navigation>

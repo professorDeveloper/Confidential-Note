@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Eslatmangizni qidiring</string>
+    <string name="note_title">Eslatma nomi</string>
+    <string name="note_subtitle">Eslatma Turi</string>
+    <string name="type_note_here">Bu yerga eslatmangizni kiriting…</string>
+    <string name="powered_by">Powered By</string>
+    <string name="developer_depository">Energy Team</string>
+    <string name="don_t_bother_remembering">My notes app</string>
+    <string name="miscellaneous">Turli xil</string>
+    <string name="pick_color">Eslatmaga rang berish</string>
+    <string name="add_image">Rasm qo`shish</string>
+    <string name="add_url">Url qo`shish</string>
+    <string name="enter_url">Url kiriting</string>
+    <string name="add">Qo`shish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="delete_note">Eslatmani o`chirish</string>
+    <string name="whoa_you_don_t_have_any_saved_notes_yet">Sizning hozirda eslatmalaringiz yuq !</string>
+    <string name="take_photo">Rasm qo`shish</string>
+    <string name="add_voice_note">Ovoz qo`shish</string>
+    <string name="select_image">Rasm tanlash</string>
+    <string name="reading_text">Eslatmangizni o`qishni hohlaysizmi</string>
+    <string name="stop_reading">Bekor qilish</string>
+    <string name="start_reading">O`qish</string>
+    <string name="read_note">Eslatmani o`qish</string>
+    <string name="rate_dialog_title">Siz qanday baholagan bo`lardingiz Myn notes appga ?</string>
+    <string name="rate_dialog_message">
+Agar sizga ilova yoqsa  uni foydali deb topsangiz, bir oz vaqt ajratib baholaysizmi? Bu vaqt talab qilmaydi. Qo`llab-quvvatlaganingiz uchun tashakkur!</string>
+    <string name="rate_dialog_ok">Hozir baho bering</string>
+    <string name="rate_dialog_cancel">Menga keyinroq Eslatib qo `y</string>
+    <string name="share_note">Eslatmani ulashish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lock">Lock</string>
+</resources>

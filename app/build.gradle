@@ -1,0 +1,72 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+    id 'com.google.dagger.hilt.android'
+    id 'kotlin-android-extensions'
+}
+
+android {
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.azamovhudstc.noteappplaystore"
+        minSdk 21
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    implementation 'com.shreyaspatil:MaterialDialog:2.1'                   //MaterialDialog Library
+    implementation "com.makeramen:roundedimageview:2.3.0"                  //RoundImageView Library
+    implementation 'com.github.hotchemi:android-rate:1.0.1'//RateMe Library
+    implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0'//KeyboardVisibilityEvent Library
+    implementation 'com.github.bumptech.glide:glide:4.14.2'                //Glide Library
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
+    implementation "com.airbnb.android:lottie:5.2.0"
+    //Kotlin Standard Library
+    implementation 'com.github.hajiyevelnur92:intentanimation:1.0'
+    /**
+     * Room ORM
+     * */
+    implementation 'com.nabinbhandari.android:permissions:3.8'
+    implementation 'androidx.core:core-splashscreen:1.0.0'
+
+
+    implementation 'androidx.navigation:navigation-fragment:2.5.3'
+    implementation "com.google.dagger:hilt-android:2.44.2"
+    kapt "com.google.dagger:hilt-compiler:2.44.2"
+
+    def room_version = "2.3.0"
+    //noinspection GradleDependency
+    implementation "androidx.room:room-runtime:$room_version"
+    kapt "androidx.room:room-compiler:$room_version"
+    //noinspection GradleDependency
+    implementation "androidx.room:room-ktx:$room_version"
+}

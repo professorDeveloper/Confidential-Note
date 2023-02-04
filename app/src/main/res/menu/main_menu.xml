@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/menu_add_note"
+            android:title="Eslatma qo`shish"
+            android:icon="@drawable/ic_add_outline"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="100"/>
+        <item
+            android:id="@+id/menu_lock_Set"
+            android:title="Eslatmalarni Qulflash"
+            android:icon="@drawable/ic_baseline_lock_24"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="100"/>
+
+        <item
+            android:id="@+id/rate_us"
+            android:title="Rate Us"
+            android:icon="@drawable/ic_menu_rate"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="200"/>
+
+        <item
+            android:id="@+id/share_up"
+            android:title="Share App"
+            android:icon="@drawable/share"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="300"/>
+
+        <item
+            android:id="@+id/menu_info_app"
+            android:title="Info App"
+            android:icon="@drawable/baseline_info_24"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="400"/>
+
+        <item
+            android:id="@+id/menu_app_theme"
+            android:icon="@drawable/quit"
+            android:iconTint="@color/colorPrimaryDark"
+            android:orderInCategory="500"
+            android:title="Exit App" />
+
+
+
+    </group>
+
+</menu>

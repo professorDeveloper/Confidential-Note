@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFC845</color>
+    <color name="colorPrimaryDark">#FFB400</color>
+    <color name="colorAccent">#FFC845</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="errorColor">#B71C1C</color>
+    <color name="infoColor">#0F4C81</color>
+    <color name="colorTextHint">#8A8A8A</color>
+    <color name="colorQuickActionsBackground">#EFEFEF</color>
+    <color name="colorIcons">#000000</color>
+    <color name="colorTextSubtitle">#2E2E2E</color>
+    <color name="colorDefaultNoteColor">#F4F4F4</color>
+    <color name="colorNoteSubtitleText">#292929</color>
+    <color name="colorMiscellaneousBackground">#ECECEC</color>
+    <color name="colorText">#000000</color>
+    <color name="colorNote2">#FFB400</color>
+    <color name="colorNote3">#3B81FF</color>
+    <color name="colorNote4">#FF4E4E</color>
+    <color name="colorNote5">#13A662</color>
+    <color name="colorNote6">#FF388E</color>
+    <color name="colorNote7">#118E9C</color>
+    <color name="colorNote8">#FF822E</color>
+    <color name="colorDelete">#FF0B03</color>
+    <color name="colorSearchBackground">#EFEFEF</color>
+    <style name="EditTextAppearance" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+
+    <style name="ErrorAlert" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="InfoAlert" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NavigationTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+
+    <style name="NavigationMenuTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <color name="ucrop_color_toolbar">@color/colorBackground</color>
+    <color name="ucrop_color_statusbar">@color/colorBackground</color>
+    <color name="ucrop_color_widget_active">@color/colorPrimaryDark</color>
+    <color name="ucrop_color_toolbar_widget">@color/colorText</color>
+    <color name="ucrop_color_active_controls_color">@color/colorPrimaryDark</color>
+    <color name="ucrop_color_inactive_controls_color">@color/colorTextHint</color>
+    <color name="ucrop_color_widget_rotate_mid_line">@color/colorPrimaryDark</color>
+    <color name="ucrop_color_active_aspect_ratio">@color/colorPrimaryDark</color>
+    <color name="ucrop_color_widget_text">@color/colorText</color>
+    <color name="unset">#403E3E</color>
+
+</resources>
