@@ -7,3 +7,9 @@
 ![image](https://user-images.githubusercontent.com/108933534/216769888-54715933-95bb-49e5-9c0f-67396410dd0e.png)
 ![image](https://user-images.githubusercontent.com/108933534/216769894-b3f04404-a4a3-4c6b-a930-dae11f121580.png)
 ![image](https://user-images.githubusercontent.com/108933534/216769900-bdc28688-185c-409c-baac-30157a600f3f.png)
+
+# Download on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.azamovhudstc.noteappplaystore">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
+
+
