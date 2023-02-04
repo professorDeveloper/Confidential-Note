@@ -1,7 +1,7 @@
 # Confidential-Note
 ![image](https://user-images.githubusercontent.com/108933534/216769861-a64dbf3c-7a94-4afd-aa65-4a13f527cb34.png)
 
-#Sample Screen
+# Sample Screen
 
 ![image](https://user-images.githubusercontent.com/108933534/216769882-eecccb73-0f2f-49b1-853f-7d3f02a98442.png)
 ![image](https://user-images.githubusercontent.com/108933534/216769888-54715933-95bb-49e5-9c0f-67396410dd0e.png)
